@@ -1,7 +1,7 @@
 # Site settings
 title: Yazılımcı
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+email: zekiozsivill@gmail.com
+url: https://github.com/zekiroot
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Python Programcısı - Oyun Geliştirici"
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/alararoot
   - title: facebook
     url:
   - title: stack-overflow
@@ -48,7 +48,7 @@ social:
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url:https://github.com/zekiroot
 
 # Postal address (add as many lines as necessary)
 address:
